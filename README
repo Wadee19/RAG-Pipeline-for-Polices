@@ -174,7 +174,7 @@ the word count increased on purpose.
 legal sentences were split and complex terms were explained inline.  
 this is expected behavior when simplifying without losing meaning.
 
-![results_image](images/readability_scores.png)
+![results_image](readability_scores.png)
 
 ## 8. runtime and cost notes
 
